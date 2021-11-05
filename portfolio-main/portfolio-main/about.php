@@ -38,7 +38,7 @@
          </div>
          <p>
          <h3>Hallo, mijn naam is Ersin Karaduman en ben 16 jaar oud. Ik volg de opleiding Software Developer op de Bit Academy in Amsterdam,
-            ik zit momenteel in mijn eerste jaar. De reden dat ik mijn portfolio heb gemaakt is omdat ik wou laten zien wie ik ben en wat ik kan.</h3>
+            ik zit momenteel in mijn tweede jaar. De reden dat ik mijn portfolio heb gemaakt is omdat ik wou laten zien wie ik ben en wat ik kan.</h3>
          </p>
          <script>
             $('.btn').click(function() {
