@@ -36,7 +36,7 @@
          <h1>Projects</h1>
       </div>
       <p>
-      <h3><a href="https://bitlab.bit-academy.nl/ersinkaraduman" class="serv-btn">Mijn GitHub</a></h3>
+      <h3><a href="https://github.com/Ersin2004" class="serv-btn">Mijn GitHub</a></h3>
       </p>
       <script>
          $('.btn').click(function() {
